@@ -1,0 +1,19 @@
+.package-container
+{
+  display: flex;
+  align-items: center;
+  column-gap: 50px;
+  width: 98%;
+  font-family:  'Poppins', sans-serif;
+  
+}
+
+.package-container .package-title
+{
+  font-size: 50px;
+  font-weight: 700;
+}
+.package-details
+{
+  margin-top: 30px;
+}

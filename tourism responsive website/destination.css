@@ -1,0 +1,50 @@
+section
+{
+  padding: 2% 9%;
+}
+.destination-container
+{
+  display: flex;
+  align-items: center;
+  column-gap: 50px;
+  width: 98%;
+  font-family:  'Poppins', sans-serif;
+  
+  
+}
+
+.destination-container .destination-title
+{
+  font-size: 50px;
+  font-weight: 700;
+}
+.destination-title
+{
+  margin-top: 30px;
+}
+
+
+.About-section  h1
+{
+
+  margin-bottom: 30px;
+  font-size: 34px;
+  font-weight: 700;
+  
+}
+
+.About-section iframe
+{
+  margin-right: 20px
+}
+
+
+
+.destination-location h1
+{
+  margin-bottom: 30px;
+  font-size: 34px;
+  font-weight: 700;
+
+}
+
